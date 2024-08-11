@@ -4,6 +4,10 @@
 
 @import 'vars.scss';
 
+* {
+    font-family: var(--t-font-family);
+}
+
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
